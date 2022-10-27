@@ -1,0 +1,21 @@
+header{
+    background-color:#34495E;
+    color: white;
+    padding: 4px;
+}
+
+aside{
+    background-color: aquamarine;
+}
+
+.color1{
+    background-color:cornflowerblue;
+}
+.color2{
+    background-color:cyan;
+}
+
+footer{
+    background-color:#34495E;
+    color: white;
+}
